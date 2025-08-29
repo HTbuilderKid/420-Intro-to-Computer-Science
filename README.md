@@ -1,2 +1,2 @@
-# 420-Intro-to-Computer-Science-
+# 420-Intro-to-Computer-Science
 Learning some things about GitHub
